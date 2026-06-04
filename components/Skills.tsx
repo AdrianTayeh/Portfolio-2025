@@ -6,10 +6,6 @@ import { fadeUp, hoverScale, stagger, viewport } from "@/lib/motion";
 
 const skillGroups = [
   {
-    title: "Programming Languages",
-    items: ["TypeScript", "JavaScript", "SQL", "C#"],
-  },
-  {
     title: "Frontend",
     items: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   },
