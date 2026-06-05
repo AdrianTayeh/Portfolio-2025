@@ -10,7 +10,7 @@ const featuredProjects = [
     title: "Internox",
     description:
       "Web app for automating internal finance workflows, with time-report parsing, invoice/bookkeeping management, and role-based admin dashboards.",
-    image: "/projects/internox.png",
+    image: "/projects/Internox.png",
     tech: ["React", "TypeScript", "GraphQL", "Prisma", "Playwright", "Tanstack Router", "Fluent UI", "Apollo Query", "PostgreSQL"],
     demoUrl: "https://internox.vercel.app",
     githubUrl: "https://github.com/Sparven0/internox-frontend",
